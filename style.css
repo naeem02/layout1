@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: crimson;
+    text-align: center;
+    padding:20px;
+    
+    
+}
+nav h1{
+    
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding: 20px;
+}
+section{
+    overflow: hidden;
+}
+
+   section aside{
+        background-color:rosybrown;
+        text-align: center;
+        width: 40%;
+        height: 500px;
+        float: left;
+        
+        
+    
+    
+    }
+   section article{
+        background-color: darkmagenta;
+        text-align: center;
+        width: 60%;
+        height: 500px;
+        float: right;
+        
+    }
+
+
+footer{
+    background-color: darkslategrey;
+    text-align: center;
+    padding:20px;
+    margin: 0;
+}
+
